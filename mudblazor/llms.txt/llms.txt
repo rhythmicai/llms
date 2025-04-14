@@ -1,0 +1,3 @@
+# https://www.mudblazor.com/components/chat llms.txt
+
+- [MudChat Component](https://www.mudblazor.com/components/chat#api): MudChat component for displaying chat bubbles with avatars.
