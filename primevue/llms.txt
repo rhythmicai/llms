@@ -50,3 +50,90 @@
 - [DataView Component](https://primevue.org/dataview): DataView component for displaying data in grid or list layouts.
 - [PrimeVue Image Component](https://primevue.org/image): Explore PrimeVue's Image component for displaying images.
 - [ScrollPanel Component](https://primevue.org/scrollpanel): Lightweight, customizable ScrollPanel component for Vue applications.
+- [PrimeVue Slider Component](https://primevue.org/slider): Slider component for input with drag handle functionality.
+- [KeyFilter Directive](https://primevue.org/keyfilter): KeyFilter directive for blocking keystrokes in PrimeVue.
+- [PrimeVue Designer Tool](https://primevue.org/designer): Powerful visual editor for PrimeVue components and themes.
+- [PrimeVue Pass Through](https://primevue.org/passthrough): Explore Pass Through API for customizing PrimeVue components.
+- [PrimeVue Vite Setup](https://primevue.org/vite): Setup PrimeVue with Vite for Vue applications easily.
+- [PrimeVue Contribution Guide](https://primevue.org/contribution): Guide for contributing to PrimeVue UI library development.
+- [Deferred Content Loading](https://primevue.org/deferredcontent): DeferredContent loads content on scroll for better performance.
+- [PrimeVue InputNumber Component](https://primevue.org/inputnumber): InputNumber component for numerical input with various features.
+- [PrimeVue Templates](https://primevue.org/templates): Explore customizable templates for PrimeVue applications.
+- [PrimeVue Playground](https://primevue.org/playground): Interactive environment to explore PrimeVue components easily.
+- [PrimeVue Tabs Component](https://primevue.org/tabs): Explore PrimeVue Tabs for seamless view switching and customization.
+- [PrimeVue Paginator Component](https://primevue.org/paginator): Paginator component for displaying paged data with navigation.
+- [PrimeVue MegaMenu Component](https://primevue.org/megamenu): Explore the MegaMenu component for navigation in PrimeVue.
+- [PrimeVue Select Component](https://primevue.org/select): Select component for choosing items from options in PrimeVue.
+- [Focus Trap Component](https://primevue.org/focustrap): Focus Trap keeps focus within a specific DOM element.
+- [PrimeVue Organization Chart](https://primevue.org/organizationchart): Visualize hierarchical organization data with PrimeVue's OrganizationChart.
+- [SelectButton Component](https://primevue.org/SelectButton): SelectButton component for choosing single or multiple items.
+- [MeterGroup Component Overview](https://primevue.org/metergroup): Explore MeterGroup for displaying scalar measurements effectively.
+- [PrimeVue Checkbox Component](https://primevue.org/checkbox): Explore PrimeVue's Checkbox component with theming options.
+- [PrimeVue Menu Component](https://primevue.org/menu): Explore PrimeVue's Menu component for navigation and commands.
+- [PrimeVue BlockUI Component](https://primevue.org/blockui): BlockUI component for controlling UI blocking states easily.
+- [PrimeVue Editor](https://primevue.org/editor): Rich text editor component using Quill for Vue applications.
+- [PrimeVue Breadcrumb Component](https://primevue.org/breadcrumb): Explore PrimeVue Breadcrumb for page hierarchy navigation.
+- [PrimeVue Carousel Component](https://primevue.org/carousel): Explore PrimeVue Carousel with customization options and examples.
+- [PrimeVue Ripple Effect](https://primevue.org/ripple): Explore Ripple effect implementation in PrimeVue components.
+- [PrimeVue Avatar Component](https://primevue.org/avatar): Explore PrimeVue Avatar component for icons, labels, and images.
+- [PrimeVue ColorPicker](https://primevue.org/colorpicker): Select colors easily with PrimeVue's ColorPicker component.
+- [ToggleButton Component](https://primevue.org/togglebutton): ToggleButton component for selecting boolean values easily.
+- [PrimeVue Forms Library](https://primevue.org/forms): Comprehensive form management with validation support in PrimeVue.
+- [PrimeVue Dialog Component](https://primevue.org/dialog): Explore PrimeVue Dialog component for overlay content display.
+- [PrimeVue Terminal Component](https://primevue.org/terminal): Explore PrimeVue's Terminal component for text-based UI.
+- [PrimeVue Setup Guides](https://primevue.org/setup): Installation guides for PrimeVue in various environments.
+- [PrimeVue Tooltip Guide](https://primevue.org/tooltip): Explore PrimeVue's Tooltip for component advisory information.
+- [Fluid Layout Component](https://primevue.org/fluid): Fluid component for full-width layout in PrimeVue.
+- [ToggleSwitch Component](https://primevue.org/toggleswitch): ToggleSwitch component for selecting boolean values in forms.
+- [PrimeVue Popover Component](https://primevue.org/popover): Explore PrimeVue's Popover component for overlays and interactions.
+- [Animate On Scroll](https://primevue.org/animateonscroll): Apply animations to elements during scrolling with ease.
+- [PrimeVue CDN Setup](https://primevue.org/cdn): Setup PrimeVue with CDN for Vue.js applications easily.
+- [PrimeVue Chart Components](https://primevue.org/chart): Explore PrimeVue Chart components for data visualization.
+- [InputOtp Component](https://primevue.org/inputotp): InputOtp component for entering one-time passwords easily.
+- [ScrollTop Component](https://primevue.org/scrolltop): ScrollTop component for quick navigation to page top.
+- [PrimeVue Stepper Component](https://primevue.org/stepper): Stepper component for guiding users through multi-step workflows.
+- [IconField Component](https://primevue.org/iconfield): IconField component integrates input fields with icons seamlessly.
+- [PrimeVue Dock Component](https://primevue.org/dock): Dock component for navigation with customizable menu items.
+- [PrimeVue Timeline Component](https://primevue.org/timeline): Visualize a series of events with PrimeVue Timeline.
+- [PrimeVue ContextMenu](https://primevue.org/contextmenu): Explore PrimeVue's ContextMenu for overlay actions.
+- [PrimeVue Tag Component](https://primevue.org/tag): Explore PrimeVue Tag component for categorizing content effectively.
+- [Verona Template Overview](https://primevue.org/templates/verona): Explore Verona template with dark mode, responsive design, and themes.
+- [PrimeVue Roadmap 2025](https://primevue.org/roadmap): Explore PrimeVue's 2025 roadmap for exciting new features.
+- [TieredMenu Component](https://primevue.org/tieredmenu): Explore the TieredMenu component for nested overlays in PrimeVue.
+- [PrimeVue Knob Component](https://primevue.org/knob): Knob component for number inputs with customizable features.
+- [Dynamic Imports Guide](https://primevue.org/guides/dynamicimports): Learn to use dynamic imports for efficient component loading.
+- [PrimeVue DatePicker](https://primevue.org/datepicker): DatePicker component for selecting dates in PrimeVue.
+- [Sakai Vue Template](https://primevue.org/templates/sakai): Explore Sakai, a free Vue application template with themes.
+- [SelectButton Component](https://primevue.org/selectbutton): SelectButton component for choosing single or multiple items.
+- [Genesis Template](https://primevue.org/templates/genesis): Versatile Genesis template for Vue and Nuxt projects.
+- [OrderList Component](https://primevue.org/orderlist): OrderList component for sorting collections in PrimeVue.
+- [PrimeLand Contribution Error](https://primevue.org/contribution/PrimeLand): Page not found error for PrimeLand contribution.
+- [PrimeVue and Tailwind Integration](https://primevue.org/tailwind): Integrate PrimeVue components with Tailwind CSS for styling.
+- [InputMask Component](https://primevue.org/inputmask): InputMask component for formatted input like phone and date.
+- [StyleClass Management](https://primevue.org/styleclass): Manage CSS classes for animations and toggling elements.
+- [PrimeVue Configuration Guide](https://primevue.org/configuration): Comprehensive configuration guide for PrimeVue components and themes.
+- [PrimeVue v4 Migration](https://primevue.org/guides/migration/v4): Migration guide for upgrading to PrimeVue v4 components.
+- [Freya Admin Template](https://primevue.org/templates/freya): Freya is a modern admin template with reusable UI components.
+- [PrimeVue Tailwind Integration](https://primevue.org/introduction/tailwind.primevue.org): Explore PrimeVue with Tailwind CSS integration features.
+- [ProgressBar Component](https://primevue.org/progressbar): ProgressBar component for indicating process status in PrimeVue.
+- [Page Not Found](https://primevue.org/tailwind.primevue.org): PrimeVue Tailwind page not found error message.
+- [MultiSelect Component](https://primevue.org/multiselect): MultiSelect component for selecting multiple items efficiently.
+- [Atlantis Template Overview](https://primevue.org/templates/atlantis): Explore the Atlantis template with dark mode and features.
+- [PrimeVue Accessibility Guide](https://primevue.org/guides/accessibility): Learn about PrimeVue's accessibility features and guidelines.
+- [Custom Icons for PrimeVue](https://primevue.org/customicons): Explore custom icons for PrimeVue components using various libraries.
+- [Ultima Template Overview](https://primevue.org/templates/ultima): Highly customizable application template with multiple themes and layouts.
+- [Image Comparison Tool](https://primevue.org/imagecompare): Compare images side by side with a slider feature.
+- [PrimeVue DataTable Overview](https://primevue.org/datatable): Explore PrimeVue's DataTable for displaying and managing data.
+- [PrimeVue Theming Guide](https://primevue.org/theming/styled): Explore PrimeVue's styled theming options and customization.
+- [PrimeVue Fieldset Component](https://primevue.org/fieldset): Explore PrimeVue's Fieldset component for grouping content.
+- [Avalon Template](https://primevue.org/templates/avalon): Modern, customizable application template with responsive design features.
+- [Apollo Vue Template](https://primevue.org/templates/apollo): Vue application template with multiple themes and layouts.
+- [Unstyled PrimeVue Theme](https://primevue.org/theming/unstyled): Explore unstyled PrimeVue components with Tailwind CSS integration.
+- [PrimeVue RTL Support](https://primevue.org/guides/rtl): Learn how to enable RTL support in PrimeVue components.
+- [ConfirmDialog Component](https://primevue.org/confirmdialog): PrimeVue ConfirmDialog for user confirmation in applications.
+- [Poseidon Template](https://primevue.org/templates/poseidon): Modern responsive application template with customizable themes.
+- [Vue Template Features](https://primevue.org/templates/diamond): Discover a versatile Vue template with multiple themes and layouts.
+- [FloatLabel Component](https://primevue.org/floatlabel): FloatLabel integrates labels with form elements seamlessly.
+- [PrimeFlex Overview](https://primevue.org/guides/primeflex): PrimeFlex sunset; Tailwind CSS recommended for PrimeVue.
+- [PrimeVue Theme Designer](https://primevue.org/designer/guide): Customize themes with PrimeVue's visual editor and tools.
+- [PrimeVue Icons Library](https://primevue.org/icons/?ref=morioh.com&utm_source=morioh.com): Explore PrimeVue's icon library with over 250 icons.
